@@ -1,6 +1,7 @@
 <html>
 <head>
 	<title>Hello world in git</title>
+	<meta name = "description" content = "some-file" />
 </head>
 <body>
 	<h1>hello world!</h1>
